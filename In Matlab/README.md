@@ -1,3 +1,3 @@
-Histogram equalization implementation in Matlab
+Histogram equalization implementation in Matlab.
 
 ![title](result.jpg)
